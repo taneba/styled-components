@@ -66,7 +66,7 @@
     "hoist-non-react-statics": "^1.2.0",
     "is-function": "^1.0.1",
     "is-plain-object": "^2.0.1",
-    "prop-types": "^15.5.4",
+    "prop-types": "^15.5.10",
     "stylis": "^3.2.1",
     "supports-color": "^3.2.3"
   },
